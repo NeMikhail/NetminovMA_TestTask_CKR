@@ -70,6 +70,6 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-ProjectSettings/ProjectSettings.asset
-.vsconfig/*
-.idea/*
+/ProjectSettings/ProjectSettings.asset
+/.vsconfig/*
+/.idea/*
